@@ -2,7 +2,7 @@
 
 ## Aim:
 
-The purpose of this project is to comapare Classification algorithms on Lung Cancer Dataset
+The purpose of this project is to comapare Classification algorithms implemented on Lung Cancer Dataset
 
 ## Dataset:
 
