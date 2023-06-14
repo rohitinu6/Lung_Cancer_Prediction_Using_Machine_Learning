@@ -45,16 +45,16 @@ These are the accuracies of the algorithms:
 
 ## Results:
 
-Out of all the algorithms so implemented, Logistic Regression performed the best. The evaluation metrics for Logistic Regression is as follows:
+Out of all the algorithms so implemented, **Logistic Regression** performed the best. The evaluation metrics for Logistic Regression is as follows:
 
-**Accuracy: 0.9029126213592233
+**Accuracy: 0.9029126213592233**
 
-Precision: 0.9052631578947369
+**Precision: 0.9052631578947369**
 
-Recall: 0.9885057471264368
+**Recall: 0.9885057471264368**
 
-F1 score: 0.945054945054945
+**F1 score: 0.945054945054945**
 
-Confusion Matrix:**
+**Confusion Matrix:**
 
 ![download](https://github.com/rohitinu6/Lung_Cancer_Prediction_Using_Machine_Learning/assets/113301503/b1e82b1c-2487-486a-b476-d34786148d40)
